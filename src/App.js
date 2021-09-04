@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-
 import User from "../src/components/dev";
+
 function App() {
   const devGabraiel = { Nome: "Gabriel", Idade: 19, Pais: "Brasil" };
   const devFelipe = { Nome: "Felipe", Idade: 28, Pais: "Paris" };
